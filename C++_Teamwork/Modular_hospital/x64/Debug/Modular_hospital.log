@@ -1,0 +1,4 @@
+﻿  Modular_hospital.cpp
+E:\Project\c++\C++_Teamwork\Modular_hospital\Items.h(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\Project\c++\C++_Teamwork\Modular_hospital\Management.h(33): warning C4715: “Management::getTreatment”: 不是所有的控件路径都返回值
+  Modular_hospital.vcxproj -> E:\Project\c++\C++_Teamwork\x64\Debug\Modular_hospital.exe

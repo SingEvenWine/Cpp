@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31937.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///e:/project/c++/c++_course_design/community_management_program/stulist.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "bea20e25d6dd55c70474fa27ef0573b5c6a781dfe160ffd4fa8feaa66c958a20"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/project/c++/c++_course_design/community_management_program/stulist.h"
+          },
+          "hashes": {
+            "sha-256": "5b857431a6f1146abcce2a3d1b15f6ee9837b9549260a5fa42df58203570e66d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/project/c++/c++_course_design/community_management_program/student.h"
+          },
+          "hashes": {
+            "sha-256": "69c768fe15ea3a78bee2df1dff60728b918860cebf28d86dc514ee040143c8b3"
+          }
+        }
+      ]
+    }
+  ]
+}

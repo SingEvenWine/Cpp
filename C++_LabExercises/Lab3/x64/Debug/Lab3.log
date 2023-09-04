@@ -1,0 +1,4 @@
+﻿  EmployeeTest.cpp
+E:\Project\c++\C++_LabExercises\Lab3\EmployeeTest.cpp(22,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Project\c++\C++_LabExercises\Lab3\EmployeeTest.cpp(23,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Lab3.vcxproj -> E:\Project\c++\C++_LabExercises\x64\Debug\Lab3.exe

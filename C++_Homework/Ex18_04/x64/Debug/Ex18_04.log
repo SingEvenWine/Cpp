@@ -1,0 +1,26 @@
+﻿  Array.cpp
+E:\Project\c++\C++_Homework\Ex18_04\Array.cpp(13,12): error C2065: “arraySize”: 未声明的标识符
+E:\Project\c++\C++_Homework\Ex18_04\Array.cpp(13,12): error C3861: “arraySize”: 找不到标识符
+E:\Project\c++\C++_Homework\Ex18_04\Array.cpp(13,28): error C3861: “arraySize”: 找不到标识符
+E:\Project\c++\C++_Homework\Ex18_04\Array.cpp(13,28): error C2065: “arraySize”: 未声明的标识符
+E:\Project\c++\C++_Homework\Ex18_04\Array.cpp(103,14): error C2995: “T &Array<T>::operator [](T)”: 函数模板已经定义
+E:\Project\c++\C++_Homework\Ex18_04\Array.h(28,6): message : 参见“Array<T>::operator []”的声明
+E:\Project\c++\C++_Homework\Ex18_04\Array.cpp(117,28): error C3861: “a”: 找不到标识符
+E:\Project\c++\C++_Homework\Ex18_04\Array.cpp(118,7): error C3861: “input”: 找不到标识符
+E:\Project\c++\C++_Homework\Ex18_04\Array.cpp(118,16): error C3861: “a”: 找不到标识符
+E:\Project\c++\C++_Homework\Ex18_04\Array.cpp(120,11): error C3861: “input”: 找不到标识符
+E:\Project\c++\C++_Homework\Ex18_04\Array.cpp(117,28): error C2065: “a”: 未声明的标识符
+E:\Project\c++\C++_Homework\Ex18_04\Array.cpp(118,7): error C2065: “input”: 未声明的标识符
+E:\Project\c++\C++_Homework\Ex18_04\Array.cpp(118,16): error C2065: “a”: 未声明的标识符
+E:\Project\c++\C++_Homework\Ex18_04\Array.cpp(120,11): error C2065: “input”: 未声明的标识符
+  Ex18_04.cpp
+E:\Project\c++\C++_Homework\Ex18_04\Ex18_04.cpp(39,10): error C2955: “Array”: 使用 类 模板 需要 模板 参数列表
+E:\Project\c++\C++_Homework\Ex18_04\Array.h(9,1): message : 参见“Array”的声明
+E:\Project\c++\C++_Homework\Ex18_04\Ex18_04.cpp(39,31): error C2514: “Array”: 无法构建类模板
+E:\Project\c++\C++_Homework\Ex18_04\Array.h(9,1): message : 参见“Array”的声明
+E:\Project\c++\C++_Homework\Ex18_04\Ex18_04.cpp(42,19): error C2662: “size_t Array<T>::getSize(void) const”: 不能将“this”指针从“Array”转换为“const Array<T> &”
+E:\Project\c++\C++_Homework\Ex18_04\Ex18_04.cpp(42,10): message : 原因如下: 无法从“Array”转换为“const Array<T>”
+E:\Project\c++\C++_Homework\Ex18_04\Ex18_04.cpp(42,10): message : 转换要求第二个用户定义的转换运算符或构造函数
+E:\Project\c++\C++_Homework\Ex18_04\Array.h(16,11): message : 参见“Array<T>::getSize”的声明
+E:\Project\c++\C++_Homework\Ex18_04\Ex18_04.cpp(42,19): message : 尝试匹配参数列表“()”时
+  正在生成代码...

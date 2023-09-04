@@ -1,0 +1,3 @@
+﻿  CAI.cpp
+E:\Project\c++\C++_Teamwork\CAI\CAI.cpp(85,20): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+  CAI.vcxproj -> E:\Project\c++\C++_Teamwork\x64\Debug\CAI.exe

@@ -1,0 +1,11 @@
+﻿  Account.cpp
+  CheckingAccount.cpp
+  polymorphicBanking.cpp
+E:\Project\c++\C++_LabExercises\Lab_Polymorphic_Banking\polymorphicBanking.cpp(27,37): error C2228: “.size”的左边必须有类/结构/联合
+E:\Project\c++\C++_LabExercises\Lab_Polymorphic_Banking\polymorphicBanking.cpp(27,37): message : 类型是“Account *[4]”
+E:\Project\c++\C++_LabExercises\Lab_Polymorphic_Banking\polymorphicBanking.cpp(51,7): error C2059: 语法错误:“if”
+E:\Project\c++\C++_LabExercises\Lab_Polymorphic_Banking\polymorphicBanking.cpp(52,7): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\Project\c++\C++_LabExercises\Lab_Polymorphic_Banking\polymorphicBanking.cpp(54,41): error C2059: 语法错误:“;”
+E:\Project\c++\C++_LabExercises\Lab_Polymorphic_Banking\polymorphicBanking.cpp(63,4): error C2059: 语法错误:“<<”
+  SavingsAccount.cpp
+  正在生成代码...

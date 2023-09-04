@@ -1,0 +1,3 @@
+﻿  IntegerSet.cpp
+E:\Project\c++\C++_LabExercises\Lab7\IntegerSet.cpp(20,28): warning C4552: ”<“: 未使用表达式结果
+  Lab7.vcxproj -> E:\Project\c++\C++_LabExercises\x64\Debug\Lab7.exe

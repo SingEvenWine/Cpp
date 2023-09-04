@@ -1,0 +1,9 @@
+﻿  Asinglelocation.cpp
+  Mars rover simulation drive.cpp
+  ProbeData.cpp
+E:\Project\c++\C++_Teamwork\MarsRover\ProbeData.cpp(13,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\c++\C++_Teamwork\MarsRover\ProbeData.cpp(20,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  TerrainData.cpp
+E:\Project\c++\C++_Teamwork\MarsRover\TerrainData.cpp(24,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  MarsRover.vcxproj -> E:\Project\c++\C++_Teamwork\x64\Debug\MarsRover.exe
